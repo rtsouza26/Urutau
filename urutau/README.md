@@ -1,5 +1,7 @@
 # urutau
 
+Front-end de chat web crictografado RSA ponto a ponto utilizando Vue.js, webWorker 
+
 ## Project setup
 ```
 yarn install
